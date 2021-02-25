@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Allow: /
+
+Sitemap : https://lbfocus.com/sitemap.xml
